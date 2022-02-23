@@ -139,8 +139,18 @@ body {
   background-color: rgb(134, 125, 125);
   text-align: center;
 }
-input[type="text email"] {
+input[type="text"],
+input[type="email"] {
   padding: 10px 20px;
+  width: 50%;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  border: #ffdead;
+}
+textarea {
+  width: 548px;
+  height: 101px;
+  max-width: 525px;
 }
 /* footer */
 .footer {
