@@ -102,3 +102,28 @@ body {
   width: 45%;
   float: right;
 }
+
+/*  community */
+.golobal-community {
+  height: 550px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+.community-left {
+  width: 45%;
+  float: left;
+}
+.community-right {
+  float: right;
+  width: 45%;
+  height: auto;
+  background-image: url("./images/shapes/shape-1.png");
+  background-size: 100px;
+  background-repeat: no-repeat;
+  background-position: right 350px;
+}
+
+.community-right img {
+  width: 90%;
+  float: left;
+}
