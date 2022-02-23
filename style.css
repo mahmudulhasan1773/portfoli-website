@@ -127,7 +127,16 @@ body {
   width: 90%;
   float: left;
 }
-
+/* contact */
+.contact{
+  height: 500px;
+  padding:50px 0px;
+  background-color: rgb(134, 125, 125);
+  text-align: center;
+}
+input[type="text email"] {
+  padding: 10px 20px;
+}
 /* footer */
 .footer{
   text-align: center;
