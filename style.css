@@ -1,0 +1,104 @@
+body {
+  background-color: black;
+}
+.portfolio-container {
+  padding: 7%;
+}
+.main-container {
+  height: auto;
+  background-color: #ffffff;
+  padding: 5%;
+  border-radius: 2px;
+}
+.header {
+  height: 600px;
+  margin-bottom: 50px;
+  overflow: hidden;
+}
+/* heaer-left */
+.header-left {
+  float: left;
+  width: 45%;
+  padding-top: 80px;
+}
+
+.header-left h1 {
+  font-size: 50px;
+  font-size: bold;
+  margin-bottom: 0px;
+}
+.header-left h6 {
+  font-size: 16px;
+}
+.btn {
+  padding: 10px 20px;
+  margin-top: 30px;
+  background-color: rgb(255, 0, 106);
+  border-radius: 10px;
+  border: none;
+  margin-bottom: 20px;
+}
+.text-color {
+  color: rgb(222, 247, 6);
+}
+
+/* header-right */
+.header-right {
+  float: right;
+  width: 45%;
+}
+.header-right img {
+  width: 100%;
+}
+
+/* mission22 */
+.mission22 {
+  height: 550px;
+}
+.mission22 h2 {
+  text-align: center;
+  font-size: 50px;
+  color: hotpink;
+}
+.single-misson {
+  width: 30%;
+  float: left;
+  margin: 10px;
+  text-align: center;
+}
+.misson {
+  background-color: #1e06f88f;
+}
+.single-misson.misson > img {
+  padding-bottom: 15px;
+}
+.visson {
+  background-color: #332e638f;
+}
+.goals {
+  background-color: #1b1a258f;
+}
+.single-misson img {
+  width: 100%;
+}
+/* develop */
+.develop {
+  height: 500px;
+  margin-top: 50px;
+}
+.develop-left {
+  float: left;
+  width: 45%;
+  background-image: url("./images/shapes/shape-1.png");
+  background-size: 200px;
+  background-repeat: no-repeat;
+  background-position: left;
+}
+.develop-left img {
+  width: 90%;
+  float: right;
+}
+.develop-right {
+  width: 45%;
+  float: right;
+}
